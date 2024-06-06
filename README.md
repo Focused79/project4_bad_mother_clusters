@@ -1,6 +1,6 @@
 
+![PrestigeWhirldWind](https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/512d8d52-55da-4287-8323-6438d25b5a5e)
 
-![PWW](/Users/cmgarxia/Desktop/PrestigeWw/Images/PrestigeWhirldWind.png)
 
 # Prestige WhirldWind
 Martin Z. Paul A. Matt Z. Mario G. 
@@ -27,15 +27,16 @@ Our research aims to address these key questions:
 
 
 ## Demo
-![Barchart](/Users/cmgarxia/Desktop/PrestigeWw/Screenshot 2024-06-03 at 9.24.48 PM.png)
+<img width="1233" alt="Screenshot 2024-06-03 at 9 24 48 PM" src="https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/6da2184b-50b5-4719-bbf9-f79b49f6f4aa">
+ 
 
->Code displaying **Costs** with a hover over tooltip details. The color gradients represent costs percentage and a chronological timeline of years. The higher the percentage the darker the color; the years are placed in a chronological order colored from light to dark. (Tableau)
+>Bar Chart displaying **Costs** with a hover over tooltip details. The color gradients represent costs percentage and a chronological timeline of years. The higher the percentage the darker the color; the years are placed in a chronological order colored from light to dark. (Tableau)
 
-![Trial Results](/Users/cmgarxia/Desktop/SMUBC/project3-alternating-current/content/MartinMarkerMap-ezgif.com-video-to-gif-converter.gif)
+![MachineLearningCodePaul-ezgif com-video-to-gif-converter](https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/1a9f4566-c14e-4ab0-b9ef-41c227df5d4c)
 
 >The **Data Trial Results** displays how a dataset can be fed into a model to correctly predict faulty sensor issues of wind turbines with 75% accuracy. (Python)
 
-![Neural Network](/Users/cmgarxia/Desktop/SMUBC/project3-alternating-current/content/MartinTableDropDowns-ezgif.com-video-to-gif-converter.gif)
+![NeuralNetworkClip-ezgif com-video-to-gif-converter](https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/6948d743-67d4-4ce0-a140-06947e5df0d6)
 
 >The Mock **Neural Network** Demo  (TensorFlow Playground) 
 
@@ -45,7 +46,7 @@ Our research aims to address these key questions:
  **Ethical Consideration**
  The data used is public and we avoided including sensitive information.
 
-## Authors
+## Data Team
 Martin Z. - Data Analyst Specialist: Specialized in advanced coding techniques to analyze complex datasets for querying databases, cleaning and transforming data, and creating Neural Network Models.
 
 Paul A. - Data Analyst Specialist: Specialized in advanced coding techniques to analyze complex datasets for querying databases, cleaning and transforming data, and creating Neural Network Models.
