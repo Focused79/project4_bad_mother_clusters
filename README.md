@@ -15,6 +15,30 @@ Our research aims to address these key questions:
 
 3. What is the optimal strategy for using classification models to identify failure points?
 
+# Electricity Cost Analysis
+
+According to the United States Energy Information Administration, the average U.S. home purchases 899 kWh of energy per month.
+
+The United States Geological Survey states that a wind turbine with a 42% capacity factor (the average among recently built wind turbines since 2021), generates over 843,000 kWh of electricity per month. 
+
+This means that one wind turbine that came online in 2020 generates enough electricity to power 937 US homes a month.
+
+
+$\text{Number of homes powered per month} = \frac{{843,000kWh}}{{899 kWh/home}}=937.71 \text{ homes}$
+
+
+
+it takes this wind turbine 46.8 minutes to power 1 US home.
+
+
+
+$\text{Time to power one home for one month} = \frac{{1 \text{ home}}}{{937.71 \text{ homes/month}}}=0.001066 \text{ months}$
+
+
+
+Currently, wind turbines experience around 23 hours of downtime per month, the equivalent of roughly 30 homes per month. With our predictive modeling in place to identify up to 75% of failures, this downtime could be cut to roughly six hours per month. Thats enough to power 22 homes per month **per wind turbine using our predictive maintenance model!**
+
+
 ## Visualizations: Bar Chart, Data Results Output, Neural Network
 
 
