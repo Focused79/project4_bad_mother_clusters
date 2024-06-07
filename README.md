@@ -57,7 +57,7 @@ Matt Z. - Data Analyst Specialist: Specialized in advanced coding techniques to 
 
 ### Dataset Citation
 
-Name: **USGS Data**
+Name: **United States Geological Survey Data**
   - Authors: USWTDB -  American Wind Energy Association, LBNL, USGS 
   - Dates: Data is current and updated frequently
   - https://eerscmap.usgs.gov/uswtdb/ 
