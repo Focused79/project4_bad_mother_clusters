@@ -42,7 +42,7 @@ Currently, wind turbines experience around 23 hours of downtime per month, the e
 ## Visualizations: Bar Chart, Data Results Output, Neural Network
 
 
-* The **Bar Chart** shows **Costs** with a hover over tooltip details. The color gradients represent costs percentage and a chronological timeline of years. The higher the percentage the darker the color; the years are placed in a chronological order colored from light to dark.
+* Bar Chart displaying **Replacement Costs** with hover over tooltip details. The color gradients represent years and cost percentage. The higher the percentage the darker the color; the years are placed in a chronological order colored from light to dark.
 
 * The **Data Trial Results** displays how a dataset can be fed into a model to correctly predict faulty sensor issues of wind turbines with 75% accuracy.
 
@@ -51,10 +51,11 @@ Currently, wind turbines experience around 23 hours of downtime per month, the e
 
 
 ## Demo
-<img width="1233" alt="Screenshot 2024-06-03 at 9 24 48 PM" src="https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/6da2184b-50b5-4719-bbf9-f79b49f6f4aa">
+![Screenshot 2024-06-10 at 3 28 12 PM](https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/8ccf3151-afad-4945-8a45-868cee7e3346)
+
  
 
->Bar Chart displaying **Costs** with a hover over tooltip details. The color gradients represent costs percentage and a chronological timeline of years. The higher the percentage the darker the color; the years are placed in a chronological order colored from light to dark. (Tableau)
+>Bar Chart displaying **Replacement Costs** with hover over tooltip details. The color gradients represent years and cost percentage. The higher the percentage the darker the color; the years are placed in a chronological order colored from light to dark. (Tableau)
 
 ![MachineLearningCodePaul-ezgif com-video-to-gif-converter](https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/1a9f4566-c14e-4ab0-b9ef-41c227df5d4c)
 
