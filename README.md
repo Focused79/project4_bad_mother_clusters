@@ -94,11 +94,16 @@ Name: **United States Geological Survey Data**
   Name: **International Renewable Energy Agency**
   - Authors: IRENA
   - Renewable Energy and Wind Turbine Installions Costs
-  - https://www.irena.org/Publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022 
+  - https://www.irena.org/Publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022
+    
+  Name: **National Renewable Energy Laboratory**
+  - Authors: NREL
+  - Cost of Energy Savings
+  - https://www.nrel.gov/docs/fy08osti/40581.pdf
 
 ### Dataset Description
 - Wind Turbine SCADA Data
-- Renewable Energy and Wind Turbine Installions Costs
+- Renewable Energy and Wind Turbine Installions & Parts Costs
 
 
 
