@@ -115,10 +115,8 @@ Name: **United States Geological Survey Data**
 
 3. **Strategy**: Utilizing a model to identify non-operational turbine data from historical datasets allows us to detect trends in faulty equipment. This empowers us to make preemptive decisions, such as dispatching maintenance workers and consulting engineers to troubleshoot potential issues, minimizing repair and breakdown costs.
 
-## Summary
-Our analysis shows that neural networks can significantly enhance cost efficiency and reliability in wind turbine renewable energy systems through predictive maintenance. By analyzing historical data to identify trends in faulty equipment, these models enable preemptive actions such as dispatching maintenance workers and consulting engineers, reducing repair and breakdown costs. Technological advancements, and improved practices in neural networks contribute to lower production costs globally, highlighting the importance of effective maintenance in sustaining reneable energy.
-
-
+## Summary 
+In summary, our predictive model can significantly enhance wind turbine energy production by reducing maintenance and repair costs, decreasing downtime, and increasing production and revenue. Additionally, minimizing downtime lessens the reliance on fossil fuels to compensate for turbine outages.
 
 
 
