@@ -55,7 +55,7 @@ Currently, wind turbines experience around 23 hours of downtime per month, the e
 
  
 
->Bar Chart displaying **Replacement Costs** with hover over tooltip details. The color gradients represent years and cost percentage. The higher the percentage the darker the color; the years are placed in a chronological order colored from light to dark. (Tableau)
+>Bar Chart displaying **Replacement Costs** with hover over tooltip details. The color gradients represent years and cost percentage. (Tableau)
 
 ![MachineLearningCodePaul-ezgif com-video-to-gif-converter](https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/1a9f4566-c14e-4ab0-b9ef-41c227df5d4c)
 
